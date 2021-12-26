@@ -1,0 +1,15 @@
+Task0: 
+The time complexity is O(1), which is the time complexity of accessing an element of an array.
+
+Task1: 
+The time complexity is O(n) since we and adding the unique elements of the arrays.
+
+Task2: 
+The time complexity is O(n) since we access all the calls and add up their times.
+
+Task3: 
+The time complexity is O(n log n). We accessed the calls which have a time complexity of O(n) and also performed a sorting operation that has a time complexity of O(n log n). O(n) + O(n log n) can simply be put to be O(n log n).
+
+Task4: 
+The time complexity is O(n log n), we iterated through the calls which have a time complexity of O(n) and also performed a sorting operation which has a time complexity of O(n log n). O(n) + O(n log n) can simply be put to be O(n log n).
+
