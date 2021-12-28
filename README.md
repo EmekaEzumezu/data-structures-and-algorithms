@@ -2,20 +2,32 @@
 
 ## PROJECTS
 
-- [Predicting Boston Housing Prices](https://github.com/davamix/udacity-machine-learning-nanodegere/tree/master/projects/boston_housing)
-- [Finding Donors for CharityML](https://github.com/davamix/udacity-machine-learning-nanodegere/tree/master/projects/finding_donors)
-- [Creating Customer Segments](https://github.com/davamix/udacity-machine-learning-nanodegere/tree/master/projects/customer_segments)
+- [Unscramble Computer Science Problems](https://github.com/EmekaEzumezu/data-structures-and-algorithms/tree/main/1_Introduction/5_Project_Unscramble_Computer_Science_Problems/P0)
 
-### Part 01 : Introduction
+### Part 1 : Introduction
 
-#### Module 01: Introduction
+#### -> 1. Introduction
 
-##### Lesson 02. Python Refresher
+##### Python Refresher
 
-* 2. Control Structures -> [2. Control Structures](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/2_Python_Refresher/2_Control_Structures_Quiz1.py)
-* 2. Control Structures 2 -> [2. Control Structures 2](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/2_Python_Refresher/2_Control_Structures_Quiz2.py)
-* 3. Functions & Generators -> [3. Functions & Generators](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/2_Python_Refresher/3_Functions_and_Generators_Quiz1.py)
-* 3. Functions & Generators 2 -> [3. Functions & Generators 2](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/2_Python_Refresher/3_Functions_and_Generators_Quiz2.py)
-* 3. Functions & Generators 2(2) -> [3. Functions & Generators 2(2)](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/2_Python_Refresher/3_Functions_and_Generators_Quiz2(2).py)
-* 4. Classes -> [4. Classes](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/2_Python_Refresher/4_Classes_Quiz1.py)
+* [2. Control Structures](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/2_Python_Refresher/2_Control_Structures_Quiz1.py)
+* [2. Control Structures 2](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/2_Python_Refresher/2_Control_Structures_Quiz2.py)
+* [3. Functions & Generators](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/2_Python_Refresher/3_Functions_and_Generators_Quiz1.py)
+* [3. Functions & Generators 2](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/2_Python_Refresher/3_Functions_and_Generators_Quiz2.py)
+* [3. Functions & Generators 2(2)](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/2_Python_Refresher/3_Functions_and_Generators_Quiz2(2).py)
+* [4. Classes](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/2_Python_Refresher/4_Classes_Quiz1.py)
+
+##### How to Solve Problems
+
+* [3. Days Between Dates](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/3_How_to_Solve_Problems/3_Days_Between_Dates.py)
+* [23. Define Simple nextDay](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/3_How_to_Solve_Problems/23_Define_Simple_nextDay_Quize.py)
+* [23. Define Simple nextDay Answer](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/3_How_to_Solve_Problems/23_Define_Simple_nextDay(Solution).py)
+* [26. Define daysBetweenDates](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/3_How_to_Solve_Problems/26_Define_daysBetweenDates(Answer).py)
+* [26. Define daysBetweenDates 2](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/3_How_to_Solve_Problems/26_Define_daysBetweenDates(Answer%20with%20dateIsBefore%20helper%20function).py)
+* [30. Test for Valid Inputs](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/3_How_to_Solve_Problems/30.%20Test%20for%20Valid%20Inputs(Answer).py)
+* [34. Finish daysBetweenDates](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/3_How_to_Solve_Problems/34_Finish_daysBetweenDates(Answer).py)
+
+##### Efficiency
+
+* [Efficiency](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/4_Efficiency/Efficiency.ipynb)
 
