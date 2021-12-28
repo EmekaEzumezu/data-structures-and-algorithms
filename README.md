@@ -31,3 +31,14 @@
 
 * [Efficiency](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/1_Introduction/4_Efficiency/Efficiency.ipynb)
 
+### Part 2 : Data Structures
+
+#### -> 1. Data Structures
+
+##### Arrays and Linked Lists
+
+* [4. Strings](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/4_Strings.ipynb)
+* [7. Implement a Linked List](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/7_Implement_a_Linked_List.ipynb)
+* [8. Types of Linked Lists](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/8_Types_of_Linked_Lists.ipynb)
+* [9. Linked List Practice (Implementing a linked list class)](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/9_Linked_List_Practice.ipynb)
+
