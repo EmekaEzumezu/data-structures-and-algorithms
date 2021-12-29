@@ -41,4 +41,11 @@
 * [7. Implement a Linked List](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/7_Implement_a_Linked_List.ipynb)
 * [8. Types of Linked Lists](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/8_Types_of_Linked_Lists.ipynb)
 * [9. Linked List Practice (Implementing a linked list class)](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/9_Linked_List_Practice.ipynb)
+* [10. Reverse a Linked List](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/10_Reverse_a_Linked_List.ipynb)
+* [11. Loop Detection in Linked Lists](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/11_Loop_Detection.ipynb)
+* [12. Flatten a Nested Linked List](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/12_Flatten_a_Nested_Linked_List.ipynb)
+* [13. Add One](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/13_Add_One.ipynb)
+* [14. Duplicate Number](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/14_Duplicate_Number.ipynb)
+* [15. Max Sum Subarray](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/15_Max_Sum_Subarray.ipynb)
+* [16. Pascal's Triangle](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/16_Pascal's_Triangle.ipynb)
 
