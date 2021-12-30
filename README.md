@@ -48,4 +48,8 @@
 * [14. Duplicate Number](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/14_Duplicate_Number.ipynb)
 * [15. Max Sum Subarray](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/15_Max_Sum_Subarray.ipynb)
 * [16. Pascal's Triangle](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/16_Pascal's_Triangle.ipynb)
+* [17. Even After Odd](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/17_Even_After_Odd.ipynb)
+* [18. Skip i, delete j](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/18_Skip_i_delete_j.ipynb)
+* [19: Swap Nodes (with browsed SwapNodes Class)](https://github.com/EmekaEzumezu/data-structures-and-algorithms/blob/main/2_Data_Structures/1_Arrays_and_Linked_Lists/19_Swap_Nodes.ipynb)
+* -> [Solutions](https://github.com/EmekaEzumezu/data-structures-and-algorithms/tree/main/2_Data_Structures/1_Arrays_and_Linked_Lists/solutions)
 
